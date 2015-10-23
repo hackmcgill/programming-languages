@@ -1,0 +1,9 @@
+JavaScript is a language originally conceived in 1995 to make the web a little
+bit more interesting, by adding animations and interactivity to the otherwise
+plain web pages of that time. Nowadays, JavaScript is everywhere: web
+development, server development, mobile development, you name it. Despite the
+similarity of their names, Java and JavaScript have essentially nothing in
+common besides the glancing likeness of their syntaxes. The core language of
+JavaScript is quite simple, but the surrounding ecosystem can be difficult to
+get a handle on, which can make it tricky to use in applications outside of
+frontend web development.

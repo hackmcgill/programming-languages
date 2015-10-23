@@ -1,0 +1,9 @@
+In contrast to the languages above, C is a low-level language. Practically,
+this means that the code is write is almost running directly "on the metal" of
+the computer, and as a programmer, you have to concern yourself with such
+things as allocating memory for your data structures. On the one hand, this
+makes C arguably more difficult to use that the higher level languages we've
+discussed. On the other hand, C programs tend to be tremendously more
+efficient. For mission-critical applications, operating systems development,
+and development for embedded systems such as robotics and specialty hardware
+used in need medecine and aerospace, C is frequently the only option.

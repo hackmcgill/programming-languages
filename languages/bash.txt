@@ -1,0 +1,7 @@
+Bash is at once a programming language and an environment for manipulating
+Unix-like operating systems. It is the glue in the Unix philosophy of
+modularity: many small, single-purpose programs can be strung together easily
+with Bash in order to achieve more complex behaviours. Bash scripts have
+traditionally been used for simple systems administration tasks, but they can
+generally be used to make operating Unix-like systems easier and more
+efficient. They are not typically used for general purpose programming.

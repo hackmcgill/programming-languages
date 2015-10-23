@@ -1,0 +1,8 @@
+Originally, C# was simply "Microsoft's version of Java". Both languages had
+strikingly similar features as well as syntax. Recently, C# has become much
+more. It has increasingly been acquiring features making it arguably more
+enjoyable to use, decreasing development times. C# is used a lot in desktop
+application development as well as in server development, much like Java. Also,
+C# is used in indie to medium size game development due to the XNA framework
+and to the Unity game engine's decision to use C# as one of its scripting
+languages.

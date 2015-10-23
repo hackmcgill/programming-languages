@@ -1,0 +1,6 @@
+C++ is a higher level version of C, and it includes many modern language
+features such as object oriented programming. In fact, C++ has so many features
+that it's hard to learn to learn them all! Being a very close descendant of C,
+C++ remains very performant, and thanks to its additional features can be used
+to program more abstractly. As a result, C++ is used a lot in professional
+video game development.

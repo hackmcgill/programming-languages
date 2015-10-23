@@ -1,0 +1,6 @@
+Assembly languages are processor-specific machines codes that can be executed
+directly by the processor. Hardly anybody writes programs in these by hand, but
+it can be useful to know assembly to do binary reverse engineering (to give
+yourself unlimited health in certain games, for example) or to simply have a
+deeper understanding of what's going on under the hood of the programs written
+in C or high level languages.

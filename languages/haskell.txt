@@ -1,0 +1,4 @@
+Haskell uses higher mathematical concepts to model computations. A powerful
+type system at its core makes it difficult if not impossible to write incorrect
+programs. A common saying in Haskell is "if it compiles, then it works".
+Haskell is used primarily in academia and in finance.

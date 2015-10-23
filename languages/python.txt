@@ -1,0 +1,8 @@
+Python aims to be simple, and to come "batteries included". Indeed, the Python
+standard library comes built in with many useful modules, e.g. for sending
+email and unit testing. A wealth of powerful third party libraries and
+frameworks exist for Python, and it is used for various tasks ranging from
+backend web development (with Django, Flask, SQLAlchemy) to scientific
+programming (with NumPy, SciPy, Scikit, Matplotlib). Due to its simplicity,
+Python is also used as a general purpose system scripting language, sometimes
+as a replacement for bash.

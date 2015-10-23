@@ -1,0 +1,9 @@
+Java is the king of enterprise languages, finding use in very large scale
+applications such as distributed systems. The essential benefit of Java over
+other industry-standard languages is that Java source code is compiled to an
+intermediate representation called bytecode. This bytecode can be run on any
+platform that supports the Java Virtual Machine. In practice, that means
+basically every operating system and processor architecture. Java is used a lot
+in desktop application development and in custom server development such as the
+multiplayer servers for certain video games. Java is also the main development
+language for Android.
