@@ -1,4 +1,5 @@
 Haskell uses higher mathematical concepts to model computations. A powerful
 type system at its core makes it difficult if not impossible to write incorrect
 programs. A common saying in Haskell is "if it compiles, then it works".
-Haskell is used primarily in academia and in finance.
+The type system also alllows for much more powerful resusable abstractions than other languages.
+Haskell is widely used in industry, notably at Google, Facebook, and Microsoft; it is also used by PL reaserchers in academia.
