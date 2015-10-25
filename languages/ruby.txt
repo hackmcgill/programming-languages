@@ -1,1 +1,3 @@
-Ruby is a language I hardly know anything about.
+Ruby is a dynamically typed interpreted language. It was developed by Yukihiro Matsumoto after the creation of Python, Java and C to make 'programming fun again'. The core language supports many interesting features such as 'blocks', 'monkey-patching' and 'dynamic dispatch'. The powerful standard library built on top provides a rich and consistent set of functions develop with. When STDLIB is not enough Ruby has a rich ecosystem and a simple, safe and generally awesome dependency manager.
+
+Ruby is widely used with the Ruby-on-Rails (rails for short) web development framework. Rails powers sites such as Basecamp, GitHub and Shopify. 
